@@ -1,0 +1,27 @@
+c:\users\umer khan\documents\visual studio 2013\Projects\LibraryManagementSystem\BALayer\bin\Debug\BALayer.dll
+c:\users\umer khan\documents\visual studio 2013\Projects\LibraryManagementSystem\BALayer\bin\Debug\BALayer.pdb
+c:\users\umer khan\documents\visual studio 2013\Projects\LibraryManagementSystem\BALayer\bin\Debug\BELayer.dll
+c:\users\umer khan\documents\visual studio 2013\Projects\LibraryManagementSystem\BALayer\bin\Debug\DALayer.dll
+c:\users\umer khan\documents\visual studio 2013\Projects\LibraryManagementSystem\BALayer\bin\Debug\BELayer.pdb
+c:\users\umer khan\documents\visual studio 2013\Projects\LibraryManagementSystem\BALayer\bin\Debug\DALayer.pdb
+c:\users\umer khan\documents\visual studio 2013\Projects\LibraryManagementSystem\BALayer\obj\Debug\BALayer.csprojResolveAssemblyReference.cache
+c:\users\umer khan\documents\visual studio 2013\Projects\LibraryManagementSystem\BALayer\obj\Debug\BALayer.dll
+c:\users\umer khan\documents\visual studio 2013\Projects\LibraryManagementSystem\BALayer\obj\Debug\BALayer.pdb
+D:\Programming\C# Projects\LibraryManagementSystem\BALayer\bin\Debug\BALayer.dll
+D:\Programming\C# Projects\LibraryManagementSystem\BALayer\bin\Debug\BALayer.pdb
+D:\Programming\C# Projects\LibraryManagementSystem\BALayer\bin\Debug\BELayer.dll
+D:\Programming\C# Projects\LibraryManagementSystem\BALayer\bin\Debug\DALayer.dll
+D:\Programming\C# Projects\LibraryManagementSystem\BALayer\bin\Debug\BELayer.pdb
+D:\Programming\C# Projects\LibraryManagementSystem\BALayer\bin\Debug\DALayer.pdb
+D:\Programming\C# Projects\LibraryManagementSystem\BALayer\obj\Debug\BALayer.csprojResolveAssemblyReference.cache
+D:\Programming\C# Projects\LibraryManagementSystem\BALayer\obj\Debug\BALayer.dll
+D:\Programming\C# Projects\LibraryManagementSystem\BALayer\obj\Debug\BALayer.pdb
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\BALayer\bin\Debug\BALayer.dll
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\BALayer\bin\Debug\BALayer.pdb
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\BALayer\bin\Debug\BELayer.dll
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\BALayer\bin\Debug\DALayer.dll
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\BALayer\bin\Debug\BELayer.pdb
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\BALayer\bin\Debug\DALayer.pdb
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\BALayer\obj\Debug\BALayer.csprojResolveAssemblyReference.cache
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\BALayer\obj\Debug\BALayer.dll
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\BALayer\obj\Debug\BALayer.pdb

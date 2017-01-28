@@ -1,0 +1,14 @@
+c:\users\umer khan\documents\visual studio 2013\Projects\LibraryManagementSystem\BELayer\bin\Debug\BELayer.dll
+c:\users\umer khan\documents\visual studio 2013\Projects\LibraryManagementSystem\BELayer\bin\Debug\BELayer.pdb
+c:\users\umer khan\documents\visual studio 2013\Projects\LibraryManagementSystem\BELayer\obj\Debug\BELayer.dll
+c:\users\umer khan\documents\visual studio 2013\Projects\LibraryManagementSystem\BELayer\obj\Debug\BELayer.pdb
+C:\Users\Umer Khan\Documents\Visual Studio 2013\Projects\LibraryManagementSystem\BELayer\obj\Debug\BELayer.csprojResolveAssemblyReference.cache
+D:\Programming\C# Projects\LibraryManagementSystem\BELayer\bin\Debug\BELayer.dll
+D:\Programming\C# Projects\LibraryManagementSystem\BELayer\bin\Debug\BELayer.pdb
+D:\Programming\C# Projects\LibraryManagementSystem\BELayer\obj\Debug\BELayer.dll
+D:\Programming\C# Projects\LibraryManagementSystem\BELayer\obj\Debug\BELayer.pdb
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\BELayer\bin\Debug\BELayer.dll
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\BELayer\bin\Debug\BELayer.pdb
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\BELayer\obj\Debug\BELayer.csprojResolveAssemblyReference.cache
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\BELayer\obj\Debug\BELayer.dll
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\BELayer\obj\Debug\BELayer.pdb

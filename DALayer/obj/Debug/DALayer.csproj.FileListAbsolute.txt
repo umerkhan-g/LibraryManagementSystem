@@ -1,0 +1,23 @@
+c:\users\umer khan\documents\visual studio 2013\Projects\LibraryManagementSystem\DALayer\bin\Debug\DALayer.dll
+c:\users\umer khan\documents\visual studio 2013\Projects\LibraryManagementSystem\DALayer\bin\Debug\DALayer.pdb
+c:\users\umer khan\documents\visual studio 2013\Projects\LibraryManagementSystem\DALayer\bin\Debug\BELayer.dll
+c:\users\umer khan\documents\visual studio 2013\Projects\LibraryManagementSystem\DALayer\bin\Debug\BELayer.pdb
+c:\users\umer khan\documents\visual studio 2013\Projects\LibraryManagementSystem\DALayer\obj\Debug\DALayer.csprojResolveAssemblyReference.cache
+c:\users\umer khan\documents\visual studio 2013\Projects\LibraryManagementSystem\DALayer\obj\Debug\DALayer.dll
+c:\users\umer khan\documents\visual studio 2013\Projects\LibraryManagementSystem\DALayer\obj\Debug\DALayer.pdb
+D:\Programming\C# Projects\LibraryManagementSystem\DALayer\bin\Debug\DALayer.dll
+D:\Programming\C# Projects\LibraryManagementSystem\DALayer\bin\Debug\DALayer.pdb
+D:\Programming\C# Projects\LibraryManagementSystem\DALayer\bin\Debug\BELayer.dll
+D:\Programming\C# Projects\LibraryManagementSystem\DALayer\bin\Debug\BELayer.pdb
+D:\Programming\C# Projects\LibraryManagementSystem\DALayer\obj\Debug\DALayer.csprojResolveAssemblyReference.cache
+D:\Programming\C# Projects\LibraryManagementSystem\DALayer\obj\Debug\DALayer.dll
+D:\Programming\C# Projects\LibraryManagementSystem\DALayer\obj\Debug\DALayer.pdb
+D:\Programming\C# Projects\LibraryManagementSystem\DALayer\bin\Debug\DALayer.dll.config
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\DALayer\bin\Debug\DALayer.dll.config
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\DALayer\bin\Debug\DALayer.dll
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\DALayer\bin\Debug\DALayer.pdb
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\DALayer\bin\Debug\BELayer.dll
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\DALayer\bin\Debug\BELayer.pdb
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\DALayer\obj\Debug\DALayer.csprojResolveAssemblyReference.cache
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\DALayer\obj\Debug\DALayer.dll
+D:\Programming\Projects (Developing)\C# Projects\LibraryManagementSystem\DALayer\obj\Debug\DALayer.pdb
